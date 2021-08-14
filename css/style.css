@@ -228,7 +228,7 @@ html{
 
 
 
-@media only screen and (max-width:400px){
+@media only screen and (max-width:1140px){
     .nav-list{
         flex-direction: row;
     }
@@ -237,7 +237,7 @@ html{
         display: flex;
     }
     .nav-list li a{
-        color: white;
+        
         font-size: 10px;
         display:block ruby;
         width: 47px;
@@ -273,7 +273,7 @@ html{
         display:block;
     }*/
     .h-nav-resp{
-        height: 72px;
+        height: 25px;
         
     }
     .v-class-resp{
